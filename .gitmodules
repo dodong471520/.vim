@@ -4,3 +4,6 @@
 [submodule "plugged/fzf.vim"]
 	path = plugged/fzf.vim
 	url = ssh://git@github.com/dodong471520/fzf.vim
+[submodule "plugged/vim-better-default"]
+	path = plugged/vim-better-default
+	url = ssh://git@github.com/dodong471520/vim-better-default.git
