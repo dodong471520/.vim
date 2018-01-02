@@ -7,3 +7,6 @@
 [submodule "plugged/vim-mucomplete"]
 	path = plugged/vim-mucomplete
 	url = ssh://git@github.com/dodong471520/vim-mucomplete.git
+[submodule "space-vim"]
+	path = space-vim
+	url = ssh://git@github.com/dodong471520/space-vim
