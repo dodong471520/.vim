@@ -10,3 +10,6 @@
 [submodule "space-vim"]
 	path = space-vim
 	url = ssh://git@github.com/dodong471520/space-vim
+[submodule "plugged/vim-swoop"]
+	path = plugged/vim-swoop
+	url = ssh://git@github.com/dodong471520/vim-swoop.git
