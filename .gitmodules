@@ -13,3 +13,6 @@
 [submodule "plugged/vim-swoop"]
 	path = plugged/vim-swoop
 	url = ssh://git@github.com/dodong471520/vim-swoop.git
+[submodule "plugged/Asciitable.vim"]
+	path = plugged/Asciitable.vim
+	url = ssh://git@github.com/dodong471520/Asciitable.vim
