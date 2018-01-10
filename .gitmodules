@@ -4,6 +4,3 @@
 [submodule "space-vim"]
 	path = space-vim
 	url = ssh://git@github.com/dodong471520/space-vim
-[submodule "plugged/Asciitable.vim"]
-	path = plugged/Asciitable.vim
-	url = ssh://git@github.com/dodong471520/Asciitable.vim
