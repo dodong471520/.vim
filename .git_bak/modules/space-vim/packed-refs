@@ -1,0 +1,11 @@
+# pack-refs with: peeled fully-peeled sorted 
+04f096cc774d10e145ee49230e8e8cd3c9594022 refs/remotes/origin/gh-pages
+14b1cb68bd575dd8b8440fb9b1d44088c8bc566b refs/remotes/origin/master
+2f4e5acc5b345fd25b0f38288173cdf139fdb671 refs/remotes/origin/vim-leader-guide
+7b8f8a2dccb0715ff1c1c411abf40b2ff6cec30b refs/remotes/origin/vim-plug
+26b8a0ba594af1068997c70c4ef0f503571557b3 refs/remotes/origin/vundle
+bbb5f0fef84ff1ffed051d42ed1a8dd870b23fc8 refs/remotes/origin/which-key
+26b8a0ba594af1068997c70c4ef0f503571557b3 refs/tags/v0.1.0
+dc541b78770c702132214c5ffd1b44ec0398acf6 refs/tags/v0.4.0
+c62730c1431ae400e8578e6f933ed506cf02beab refs/tags/v0.5.0
+5cf179e44b78896287401b1ede90867ae6799d5c refs/tags/v0.6.0
