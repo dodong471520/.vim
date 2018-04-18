@@ -425,6 +425,7 @@ function! s:doautocmd(...)
 endfunction
 
 function! s:dobufread(names)
+    return
   for name in a:names
     let path = s:rtp(g:plugs[name]).'/**'
     for dir in ['ftdetect', 'ftplugin']
